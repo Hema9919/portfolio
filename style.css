@@ -48,10 +48,10 @@
      }
      #main__list li{
         font-size: 30px;
-        border: solid 5px  rgb(19, 18, 18);
+        border: solid 2px  rgb(19, 18, 18);
         background-color:gold;
         display: inline;
-        margin: 5px;
+        margin: 1px;
    
     }
      #main__list li a{
@@ -63,7 +63,7 @@
         background-color: midnightblue;
      }
      #img{
-        width: 30%;
+        width: 34%;
      }
      #main__container{
        grid-area: main;
