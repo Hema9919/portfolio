@@ -48,10 +48,10 @@
      }
      #main__list li{
         font-size: 30px;
-        border: solid 2px  rgb(19, 18, 18);
+        border: solid 2px  rgb(15, 16, 16);
         background-color:gold;
         display: inline;
-        margin: 1px;
+        margin: 0px;
    
     }
      #main__list li a{
@@ -71,7 +71,7 @@
      }
 
      #p{
-     font-size: 25px;
+     font-size: 20px;
      color: yellow;
      }
      #t{
