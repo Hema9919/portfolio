@@ -51,7 +51,7 @@
         border: solid 5px  rgb(19, 18, 18);
         background-color:gold;
         display: inline;
-        margin: 10px;
+        margin: 5px;
    
     }
      #main__list li a{
@@ -71,7 +71,7 @@
      }
 
      #p{
-     font-size: 30px;
+     font-size: 25px;
      color: yellow;
      }
      #t{
