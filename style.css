@@ -23,7 +23,7 @@
 
      #head{
         grid-area: head;
-        background-color: midnightblue;
+       background-color: midnightblue; 
        text-align: center;
      }
      #h1{
