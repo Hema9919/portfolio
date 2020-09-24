@@ -108,6 +108,7 @@
        gap: 10px;
        margin: 10px;                      
     }
+
     
 
     #head{
@@ -140,7 +141,7 @@
        border: solid 5px  rgb(19, 18, 18);
        background-color:gold;
        display: inline;
-       margin: 10px;
+       margin: 50px;
   
    }
     #main__list li a{
@@ -229,7 +230,7 @@
        border: solid 5px  rgb(19, 18, 18);
        background-color:gold;
        display: inline;
-       margin: 10px;
+       margin: 70px;
   
    }
     #main__list li a{
@@ -264,6 +265,6 @@
     }
     #ic{
         padding: 20px;
-
+        
     }
 }
